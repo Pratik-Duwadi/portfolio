@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Pratik</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Pratik Duwadi</h1>
+      <p>Studying BIT at ISMT College Tinkune</p>
+    </div>
+  </header>
+  
+  <section class="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>Introductory text about yourself...</p>
+    </div>
+  </section>
+  
+  <section class="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <div class="project">
+        <h3>Project 1</h3>
+        <p>Description of Project 1.</p>
+        <a href="http://127.0.0.1:5500/Calculator/Index.html">View Project</a>
+      </div>
+      <div class="project">
+        <h3>Project 2</h3>
+        <p>Description of Project 2.</p>
+        <a href="#">View Project</a>
+      </div>
+    </div>
+  </section>
+  
+  <footer>
+    <div class="container">
+      <p>&copy; 2024 Pratik Duwadi. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
